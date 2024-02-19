@@ -5,10 +5,11 @@
     border: 1px solid black;
     margin: auto;
     vertical-align: center;
+    display: inline-block;
 }
 
 .cache {
-    visibility: hidden;
+    display: none;
 }
 
 .erreur {
